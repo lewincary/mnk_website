@@ -1,0 +1,336 @@
+#background_pic_container {
+    background: url("images/clink.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+}
+
+a {
+    font-size: inherit;
+}
+
+a:hover {
+    color: inherit;
+}
+
+.logo {
+    height: 100%;
+}
+
+.logo_main {
+    width: 500px;
+}
+
+.team_pic {
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+}
+
+.team_member {
+    font-family: 'Lato';
+    font-size: 30px;
+}
+
+#prototype {
+    background-color: #f7f7f7;
+    padding-bottom: 40px;
+}
+
+#team {
+    /*background-color: #f7f7f7;*/
+    padding-bottom: 40px;
+}
+
+.team_title {
+    font-family: 'Lato';
+    font-size: 20px;
+    color: #666;
+}
+
+.hdr_sub{
+    font-family: 'Lato';
+    font-size: 20px;
+    color: #666;
+}
+
+.team_title_sub {
+    font-family: 'Lato';
+    font-size: 15px;
+    color: #666;
+    font-weight: lighter;
+
+}
+
+.brand-logo {
+    /*background: url("Logo/bb_logo.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;*/
+}
+
+
+#row2 {
+    background-color: #fff;
+    background: rgba(191, 191, 191, 0.3);
+    background: -webkit-linear-gradient(#fff, rgba(191, 191, 191, 0.3)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#fff, rgba(191, 191, 191, 0.3)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#fff, rgba(191, 191, 191, 0.3)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#fff, rgba(191, 191, 191, 0.2)); /* Standard syntax (must be last) */
+    /*height: 500px;*/
+    padding-bottom: 100px;
+}
+
+#row3 {
+    background: url("images/market.jpg") no-repeat center bottom ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 40vh;
+}
+
+#row4 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#row5 {
+    background: url("images/top.jpg") no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 40vh;
+}
+
+#row7 {
+    background: url("images/market_2.jpg") no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 40vh;
+}
+
+#row6 {
+    padding-bottom: 40px;
+}
+
+.row {
+    margin: 0px;
+}
+
+.bm {
+    margin-bottom: 20px;
+}
+
+.tm {
+    margin-top: 20px;
+}
+
+.tp {
+    padding-top: 20px;
+}
+
+.bp {
+    padding-bottom: 20px;
+}
+
+.vertical_align {
+    display: flex;
+    align-items: center;
+}
+
+.horizontal_align {
+    margin: auto;
+    display: block;
+}
+
+.hta {
+    text-align: center;
+}
+
+#name_container {
+    background-color: rgba(180, 180, 180, 0.4);
+    padding: 20px;
+    font-family: 'Montserrat';
+    color: #fff;
+}
+
+.main_hd1 {
+    font-family: 'Lato';
+    font-size: 4em;
+    /*color: #b3b3b3;*/
+    /*color: #ff5722;*/
+    color: rgb(51l, 51, 51);
+}
+
+.main_hd2 {
+    font-family: 'Lato';
+    font-size: 30px;
+    /*color: #737373;*/
+    color: rgb(51, 51, 51);
+}
+
+.row_heading {
+    font-size: 80px;
+    font-family: 'Lato';
+    color: #ababab;
+    padding: 45px;
+    /*font-weight: 100;*/
+}
+
+
+.body_text {
+    font-family: 'Lato';
+    font-size: 18px;
+    color: #8c8c8c;
+}
+
+.b_cap {
+    padding-bottom: 50px;
+}
+
+.main_symbol {
+    font-size: 160px;
+    /*color: #b3b3b3;*/
+    color: #F9AD5F;
+    padding: 25px;
+}
+
+#name {
+    font-size: 100px;
+}
+
+#name_sub_header {
+    font-size: 60px;
+    position: relative;
+    color: #F9AD5F;
+    top: -25px;
+}
+
+#name_sub_sub_header {
+    font-size: 40px;
+    font-weight: 1;
+    position: relative;
+    color: #fff;
+    top: -25px;
+}
+
+#tagline {
+    font-size: 30px;
+    font-family: 'Montserrat';
+    color: #b0e8b9;
+    position: relative;
+    top: -15px;
+}
+
+nav {
+    font-family: 'Montserrat';
+    background-color: rgba(0,0,0,0);
+    position: absolute;
+
+
+}
+
+#what_is_body {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.sub_header {
+    font-size: 20px;
+    /*color: #b3b3b3;*/
+    color: #8c8c8c;
+}
+
+.sub_header_2 {
+    font-size: 15px;
+    color: #8c8c8c;
+    padding: 10px;
+}
+
+#make_swap_btn {
+    border-radius: 40px;
+}
+
+#make_swap_btn:hover {
+    text-decoration: none;
+}
+
+#swap_type_prompt {
+    visibility: hidden;
+    position: relative;
+    font-size: 30px;
+    top: 20px;
+}
+
+#room_num_prompt{
+    /*background: rgba(191, 191, 191, 0);*/
+    background-color: #fff;
+    border-radius: 20px;
+    color:#ff5722;
+    /*visibility: hidden;*/
+    display: none;
+    position: relative;
+    font-size: 30px;
+    top: -25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.footer_link {
+    color: #7B7B7B;
+}
+
+.footer_link:hover {
+    cursor: pointer;
+    color: #ff5722;
+    text-decoration: none;
+}
+
+.link:hover {
+    cursor: pointer;
+    color: #ff5722;
+    text-decoration: none;
+}
+
+.brand_color {
+    color: #ff5722;
+}
+
+#room_num_enter {
+    color: #000;
+    height: 30px;
+}
+
+.room_cat {
+    background-color: #fff;
+    border-radius: 5px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+#about_us {
+    margin-top: 50px;
+}
+
+.footer_hdr {
+    font-size: 17px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer_content {
+    font-size: 12px;
+    color: #7B7B7B;
+    padding-bottom: 10px;
+}
+
+.blue_link {
+    color: #337ab7
+}
